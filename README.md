@@ -33,7 +33,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,python,c" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,python,mongodb" />
 </p>
 
 ### Tools
