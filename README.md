@@ -77,9 +77,9 @@
 ## 🌍 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Arabic-Native-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/French-Intermediate-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabic-Native-bleu?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/French-Intermediate-bleu?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Advanced-bleu?style=for-the-badge" />
 </p>
 
 ---
