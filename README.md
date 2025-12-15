@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;OFPPT+Student;Web+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0000FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;OFPPT+Student;Web+Developer;Always+Learning" />
 </div>
 
 ---
