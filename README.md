@@ -74,12 +74,12 @@
 
 ---
 
-## 🌍 Languages
+## 🌍 Langues
 
 <p>
-  <img src="https://img.shields.io/badge/Arabic-Native-bleu?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/French-Intermediate-bleu?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Advanced-bleu?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabic-Native-0000FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/French-Intermediate-0000FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Advanced-0000FF?style=for-the-badge" />
 </p>
 
 ---
