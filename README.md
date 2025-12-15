@@ -46,13 +46,23 @@
 ## 📊 GitHub Stats (Animated)
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedkab2006&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkab2006&theme=radical&hide_border=true" />
+  <a href="https://github.com/Mohamedkab1/SERVICEDELOCA" target="_blank">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=SERVICEDELOCA&theme=radical&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Mohamedkab1/Portfolio" target="_blank">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=Portfolio&theme=radical&hide_border=true" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkab2006&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/Mohamedkab1/ShopZone" target="_blank">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=ShopZone&theme=radical&hide_border=true" />
+  </a>
 </div>
+
 
 ---
 
