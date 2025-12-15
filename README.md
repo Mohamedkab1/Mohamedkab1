@@ -99,5 +99,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=FFD700&center=true&width=500&lines=Let's+build+something+awesome!;Open+to+collaboration+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=0000FF&center=true&width=500&lines=Let's+build+something+awesome!;Open+to+collaboration+🚀" />
 </div>
