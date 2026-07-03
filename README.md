@@ -1,97 +1,238 @@
-<h1 align="center">
-  Hi 👋, I'm Mohamed Kabbaj
-</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Kabbaj</h1>
 
 <div align="center">
-  <img src="Bannière LinkedIn Profil Simple Bleu.png" />
+    <img src="./assets/banner.png" alt="Banner" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0000FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;OFPPT+Student;Web+Developer;Always+Learning" />
-</div>
-
----
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedkab2006&style=flat-square&color=yellow" />
-  <img src="https://img.shields.io/github/followers/mohamedkab2006?style=flat-square&color=yellow" />
-  <img src="https://img.shields.io/github/stars/mohamedkab2006?style=flat-square&color=yellow" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Laravel+%7C+Node.js;Desktop+Apps+with+Electron;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-🎯 Full-stack web developer from **Marrakech, Morocco**  
-🎓 Student in **DEV DIGITAL – OFPPT**  
-💡 Passionate about clean code, UI/UX & modern web apps  
+![](https://komarev.com/ghpvc/?username=Mohamedkab1&style=for-the-badge&color=blue)
+
+![](https://img.shields.io/github/followers/Mohamedkab1?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/Mohamedkab1?style=for-the-badge)
+
+</div>
+
+# 🚀 About Me
+
+```js
+const mohamed = {
+    location: "Marrakech, Morocco",
+    education: "DEV DIGITAL - OFPPT",
+    role: "Full-Stack Developer",
+
+    frontend: [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Laravel",
+        "PHP",
+        "Node.js",
+        "MySQL",
+        "MongoDB"
+    ],
+
+    currentlyLearning: [
+        "Electron",
+        "Docker",
+        "Advanced React"
+    ]
+}
+```
 
 ---
 
-## 🛠️ Tech Stack (Animated Badges)
+# 💻 Tech Stack
 
 ### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 ### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,python,mongodb" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb,python" />
 </p>
 
 ### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Animated)
-
-<div align="center">
-  <a href="https://github.com/Mohamedkab1/SERVICEDELOCA" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=SERVICEDELOCA&theme=radical&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Mohamedkab1/Portfolio" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=Portfolio&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Mohamedkab1/ShopZone" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=ShopZone&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-
-## 🌍 Langues
-
-<p>
-  <img src="https://img.shields.io/badge/Arabic-Native-0000FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/French-Intermediate-0000FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Advanced-0000FF?style=for-the-badge" />
-</p>
-
----
-
-## 📫 Contact Me
+# 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Mohamedkab1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamedkab1&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedkab1&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedkab1&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌎 Languages
+
+- 🇲🇦 Arabic (Native)
+- 🇫🇷 French (Intermediate)
+- 🇬🇧 English (Advanced)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mohamedkab2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Mohamedkab1">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏢 Stocki ERP
+
+Inventory & Business Management System
+
+- Products
+- Clients
+- Suppliers
+- Credit Management
+- Invoices
+- Delivery Notes
+
+**Tech:** React • Laravel • MySQL • Electron
+
+</td>
+
+<td width="50%">
+
+### 🛒 ShopZone
+
+Modern E-commerce Platform
+
+- Authentication
+- Products
+- Cart
+- Orders
+- Dashboard
+
+**Tech:** React • Laravel • MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏠 IMMORent
+
+Real Estate Rental Platform
+
+- Property Listings
+- Reservations
+- Authentication
+- Dashboard
+
+**Tech:** React • Laravel
+
+</td>
+
+<td width="50%">
+
+### 🚗 Service De Location
+
+Car Rental Management System
+
+- Vehicle Management
+- Reservations
+- Customers
+- Payments
+
+**Tech:** Laravel • MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📌 Repository Highlights
+
+<div align="center">
+
+<a href="https://github.com/Mohamedkab1/Stocki-ERP">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=Stocki-ERP&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mohamedkab1/ShopZone">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=ShopZone&theme=github_dark&hide_border=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Mohamedkab1/IMMORent">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=IMMORent&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mohamedkab1/SERVICEDELOCA">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamedkab1&repo=SERVICEDELOCA&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=0000FF&center=true&width=500&lines=Let's+build+something+awesome!;Open+to+collaboration+🚀" />
+
+### 🚀 "Building software that solves real-world problems."
+
 </div>
